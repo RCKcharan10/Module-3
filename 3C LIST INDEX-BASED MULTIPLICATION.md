@@ -1,4 +1,4 @@
-# Experiment No: 2h – SEB-List Index-Based Multiplication
+# Experiment No: 3c List Index-Based Multiplication
 
 ## AIM  
 To write a Python function that takes a list `L` as an argument, multiplies 10 to the value at the even index and 5 to the value at the odd index, and displays the modified list `L`.
